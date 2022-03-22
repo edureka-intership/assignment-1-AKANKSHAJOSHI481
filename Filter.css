@@ -1,0 +1,268 @@
+#web-page{
+  top: 0px;
+left: 0px;
+width: 1366px;
+height: 973px;
+/* UI Properties */
+ background: #FBFBFB red 0% 0% no-repeat padding-box;  
+
+}
+
+#header{
+  top: 0px;
+left: 0px;
+width: 1366px;
+height: 80px;
+/* UI Properties */
+background: #CE0505 0% 0% no-repeat padding-box;
+}
+
+.elogo{
+  margin-top: 15px;
+margin-left: 102px;
+width: 52px;
+height: 52px;
+/* UI Properties */
+border-radius: 50%;
+display: inline-block;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+font: normal normal 600 33px/50px Poppins;
+color: #EB2929;
+font-size: 33px;
+    font-weight: 600;
+text-align: center;
+}
+.login-command{
+ margin: top 25px;
+ margin-left:913px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+}
+.Create-an-account{
+  margin: top 27px;
+  margin: 0px 0 0 10px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+}
+.heading{
+  /* margin-left:113px;
+  margin-top:117px; */
+  margin: 20px 0 20px 113px;
+  width: 514px;
+  height: 51px;
+  text-align: left;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: 0px;
+  color: #192F60;
+}
+
+#filter{
+  top: 195px;
+  margin: 20px 25px 20px 113px;
+    padding: 17px 26px 17px 26px;
+left: 113px;
+width: 208px;
+height: 682px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+display: inline-block;
+letter-spacing: 0px;  
+}
+
+.main-title{  
+  top: 212px;
+left: 139px;
+width: 55px;
+height: 25px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 18px/27px Poppins;
+letter-spacing: 0px;
+color: #192F60;
+}
+
+.sub-title{
+  margin: 10px 20px 20px 0px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 14px/21px Poppins;
+font-size:14px;
+letter-spacing: 0px;
+color: #192F60;
+}
+
+#select-Location{
+  top: 278px;
+left: 140px;
+width: 208px;
+height: 35px;
+/* UI Properties */
+border: 1px solid #8C96AB;
+border-radius: 3px;
+}
+
+.cuisine-container{
+margin: 17px 0 10px -2px;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #8c96ab; 
+}
+
+
+
+.Restaurant-images {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  object-fit: none;
+  border-radius: 10px;
+  margin: 5px 10px 10px 5px;
+}
+.restaurants{
+  display: inline-block;
+  vertical-align: top;
+}
+.restuarant-box{
+  display: block;
+  width: 794px;
+  height: 261px;
+  margin: 20px 100px 20px 30px;
+  padding: 25px 20px 25px 20px;
+  box-shadow: 0px 3px 6px #00000029;
+  background-color: #ffffff;
+}
+.images {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  object-fit: none;
+  border-radius: 10px;
+  margin: 5px 10px 10px 5px;
+}
+
+
+.Restaurant-details{
+  display: inline-block;
+  vertical-align: top;
+  margin: 20px 40px 10px 20px;
+
+}
+.Restaurant-name{
+  top: 234px;
+left: 614px;
+width: 303px;
+height: 43px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 30px/46px Poppins;
+letter-spacing: 0px;
+color: #192F60;
+}
+.Restaurant-address-1{
+  top: 282px;
+left: 619px;
+width: 40px;
+height: 23px;
+/* UI Properties */
+text-align: left;
+font: normal normal medium 16px/30px Poppins;
+letter-spacing: 0px;
+color: #192F60;
+}
+.Restaurant-address-2{
+  top: 310px;
+left: 619px;
+width: 373px;
+height: 23px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 16px/30px Poppins;
+letter-spacing: 0px;
+color: #636F88;
+}
+
+.divider{
+  
+width: 726px;
+height: 0px;
+/* UI Properties */
+margin: 15px 0 0 10px;
+border: 1px solid #DEDFE5;
+}
+
+.partition {
+  width: 600px;
+  height: 0;
+  margin: 15px 0 0 10px;
+  border: solid 1px #dedfe5;
+}
+.restuarant-bottom-left{
+  display: inline-block;
+  width: 140px;
+  height :69px;
+  margin: 30px 0 0 10px;
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 2.0;
+  color: #636f88;
+}
+.restuarant-bottom-right{
+  display: inline-block;
+  width: 150px;
+  height:69px;
+  margin: 30px 0 0 10px;
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 2.0;
+  color: #636f88;
+}
+.items-bot-left {
+  display: inline-block;
+  width: 150px;
+  margin: 30px 0 0 10px;
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 2.0;
+  color: #636f88;
+}
+
+.items-bot-right {
+  display: inline-block;
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 2.0;
+  color: #192f60;
+
+}
+
+.pagination {
+  display: inline-block;
+  margin: 10px 30px 30px 215px;
+}
+
+.page-number{
+  padding: 5px 12px 3px;
+  display: inline-block;
+  margin: 0 5px 0 5px;
+  width: 12px;
+  border-radius: 7px;
+  border: solid 1px #8c96ab;
+  background-color: #ffffff;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #8c96ab;
+}
